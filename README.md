@@ -1,4 +1,4 @@
-# 🌸 Pastel Notepad App
+# 🌸 NOTEPAD
 
 A sweet, minimal, and fully responsive React note-taking application styled with a soft pastel theme. Built with **React.js**, **React Router**, and **React Icons**, this app lets users easily create, edit, organize, search, and manage their daily thoughts with persistent local storage.
 
